@@ -24,12 +24,13 @@ This project connects those conditions to practical responses. It does not assum
 8. **Accessible contributions:** welcome small, phone-friendly contributions, translations, corrections, and respectful disagreement.
 9. **No invented evidence:** never fabricate sources, quotations, statistics, local testimony, or results.
 10. **Show limitations:** record who may be excluded, what an intervention costs, what it depends on, and what the evidence does not establish.
+11. **Technology serves the need:** compare technical and non-technical options; consider full lifecycle cost, access, repair, maintenance, accountability, portability, and the right to opt out.
 
 ## A shared process
 
-**Observe → understand barriers → co-design → experiment → evaluate → adapt.**
+**Observe → understand barriers → co-design → compare options → implement proportionately → evaluate → adapt or retire.**
 
-Use this as a learning cycle, not a rigid programme. Community members should help define the problem, outcomes, safeguards, and acceptable trade-offs.
+Use this as a learning cycle, not a rigid programme. Community members should help define the problem, outcomes, safeguards, and acceptable trade-offs. Technology is one possible response, not the default response.
 
 ## Initial pilot: Cabo Verde
 
@@ -45,17 +46,26 @@ The initial challenge areas are working categories, not claims that every island
 - Food security and import dependence
 - Waste and energy systems
 - Media, digital platforms, audio, public communication, and influence
+- Digital access, technology affordability, digital public services, local technical capacity, and the effects of automation and AI
+
+Technology is both a cross-cutting layer and a research topic in its own right. Investigate infrastructure, connectivity, devices, software, data, digital services, accessibility, automation, and AI alongside non-digital alternatives. These are research questions, not findings about any island or population.
 
 Religious participation is not itself classified as addiction or harm. Assess specific, observable practices and outcomes—such as coercion, financial exploitation, isolation, interference with healthcare, or loss of meaningful choice—using the same standards applied to other organisations and systems. Do not infer harm from belief or identity alone.
+
+## From research to implementation
+
+A proposed response should identify the need, compare existing and alternative approaches, specify the people and infrastructure required, define operating and maintenance responsibilities, set privacy and safety safeguards, and evaluate real-world outcomes. A prototype or app launch is not proof of usefulness or successful implementation.
+
+Start with the [technology, application and implementation framework](frameworks/technology-application-implementation.md) and its [implementation plan template](templates/implementation-plan.md).
 
 ## Repository map
 
 - `evidence/` — source register, claim ledger, and evidence standards
-- `frameworks/` — human agency, behaviour, media, and influence
+- `frameworks/` — human agency, behaviour, media, influence, and technology/implementation methods
 - `cases/cabo-verde/` — pilot scope and challenge register
 - `interventions/` — evidence-backed options and locally testable ideas
 - `evaluations/` — outcome measures and harm review
-- `templates/` — reusable source, claim, case, and proposal records
+- `templates/` — reusable source, claim, case, proposal, and implementation records
 
 ## How to contribute
 
@@ -66,12 +76,13 @@ You can help by:
 - Translating or improving a public resource
 - Identifying missing voices, accessibility barriers, or foreseeable harms
 - Proposing a small, reversible intervention with measurable outcomes
+- Testing a tool or workflow and documenting requirements, usability, costs, failures, maintenance, and limitations
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting work. Do not add personal stories or sensitive details about identifiable people without their informed permission.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting work. Do not add personal stories or sensitive details about identifiable people without their informed permission. Never commit passwords, API keys, access tokens, private datasets, or unconsented personal information.
 
 ## Status
 
-This is an early-stage framework and pilot. The repository does **not** yet claim that the listed challenges have all been locally verified, that any proposed intervention has been tested in Cabo Verde, or that a causal relationship has been established. Claims and interventions must earn their status through traceable evidence and evaluation.
+This is an early-stage framework and pilot. The repository does **not** yet claim that the listed challenges have all been locally verified, that any proposed intervention has been tested in Cabo Verde, or that a causal relationship has been established. Claims and interventions must earn their status through traceable evidence and evaluation. The technology framework is a planning method, not evidence that a particular technical solution is needed or appropriate.
 
 ## License
 
