@@ -56,16 +56,17 @@ Religious participation is not itself classified as addiction or harm. Assess sp
 
 A proposed response should identify the need, compare existing and alternative approaches, specify the people and infrastructure required, define operating and maintenance responsibilities, set privacy and safety safeguards, and evaluate real-world outcomes. A prototype or app launch is not proof of usefulness or successful implementation.
 
-Start with the [technology, application and implementation framework](frameworks/technology-application-implementation.md) and its [implementation plan template](templates/implementation-plan.md).
+Start with the [technology, application and implementation framework](frameworks/technology-application-implementation.md) and its [implementation plan template](templates/implementation-plan.md). For documented real-world journeys, see the [global solution stories and artefact library](cases/solution-stories/README.md) and the [solution-story template](templates/solution-story.md).
 
 ## Repository map
 
 - `evidence/` — source register, claim ledger, and evidence standards
 - `frameworks/` — human agency, behaviour, media, influence, and technology/implementation methods
 - `cases/cabo-verde/` — pilot scope and challenge register
+- `cases/solution-stories/` — global solution journeys, evidence-linked results, implementation artefacts, and feedback gaps
 - `interventions/` — evidence-backed options and locally testable ideas
 - `evaluations/` — outcome measures and harm review
-- `templates/` — reusable source, claim, case, proposal, and implementation records
+- `templates/` — reusable source, claim, case, proposal, implementation, and solution-story records
 
 ## How to contribute
 
