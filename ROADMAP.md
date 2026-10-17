@@ -27,11 +27,14 @@ This roadmap prioritises trustworthy foundations over breadth. Technology and im
 
 - [x] Add a technology, application and implementation framework that treats technology as an option, not the default.
 - [x] Add a reusable implementation plan template covering outcomes, alternatives, cost, operations, safeguards and evaluation.
+- [x] Create a global solution-story and implementation-artefact library with explicit evidence and feedback rules.
+- [x] Add a reusable story template separating expected outcomes, observed results, direct user feedback, failures and transferability.
 - [ ] Validate problem framing with people who understand the relevant island, municipality, and community context.
 - [ ] Map existing services, community initiatives, and proven interventions before proposing new ones.
 - [ ] Compare practical cost, access, staffing, infrastructure, and maintenance requirements.
 - [ ] Identify exclusion risks, privacy risks, consent requirements, and exit options.
 - [ ] For any proposed technical solution, compare non-digital, existing-tool, and build-new options; record why the chosen approach is proportionate.
+- [ ] Expand the global story library with primary project documents, independent evaluations, local-language sources, implementation artefacts and verified user feedback.
 - [ ] Define requirements and acceptance criteria before development or procurement.
 - [ ] Confirm an accountable operator, support route, maintenance capacity, funding continuity, and non-digital fallback before any live pilot.
 
