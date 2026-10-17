@@ -1,0 +1,12 @@
+challenge_id,challenge_area,geographic_scope,affected_groups_to_consider,provisional_question,evidence_status,source_ids,known_gaps,possible_existing_responses,next_step
+CV-01,cost of living and income,to verify,To verify locally,Which costs and income constraints most limit practical choices?,unverified,,,,Find current local and official sources
+CV-02,employment and underemployment,to verify,To verify locally,Which groups face barriers to stable and suitable work?,unverified,,,,Find labour data and local reporting
+CV-03,inter-island transport,to verify,To verify locally,Where do transport cost and reliability constrain access?,unverified,,,,Map routes costs and service access
+CV-04,water and sanitation,to verify,To verify locally,Which communities face the greatest access or reliability constraints?,unverified,,,,Find current island-level evidence
+CV-05,healthcare access and staffing,to verify,To verify locally,Where do cost distance staffing or waiting constrain care?,unverified,,,,Find health service and workforce evidence
+CV-06,affordable housing,to verify,To verify locally,Which housing costs or conditions constrain stability?,unverified,,,,Find current housing evidence
+CV-07,education-to-work transitions,to verify,To verify locally,Which pathways connect learning to suitable employment?,unverified,,,,Find education and labour transition evidence
+CV-08,gender and unpaid care,to verify,To verify locally,How is unpaid care distributed and what options are constrained?,unverified,,,,Find time-use and gender evidence
+CV-09,food security and climate,to verify,To verify locally,How do prices supply and drought affect reliable access to food?,unverified,,,,Find food price climate and household evidence
+CV-10,waste energy and imports,to verify,To verify locally,Which system dependencies create costs or resilience risks?,unverified,,,,Find current infrastructure and energy evidence
+CV-11,media and influence,to verify,To verify locally,What evidence exists about information access trust transparency and user control?,unverified,,,,Define measurable questions before drawing conclusions
