@@ -12,11 +12,15 @@ This roadmap prioritises trustworthy foundations over breadth.
 
 ## Phase 1 — Evidence baseline
 
-- [ ] Populate the source register with traceable, dated sources.
-- [ ] Build a claim ledger that separates evidence, inference, uncertainty, and what a source does not establish.
-- [ ] Verify which challenge areas are supported by current, local evidence.
-- [ ] Include local-language media and perspectives where accessible.
-- [ ] Record evidence gaps rather than filling them with assumptions.
+- [x] Add an initial source register with official, institutional and local-language sources.
+- [x] Create an initial claim ledger that separates evidence, inference, uncertainty, and what a source does not establish.
+- [x] Record first-pass evidence and limitations for labour, essential consumption, water access, connectivity, food/climate and CPI.
+- [x] Record unresolved topics and next verification steps rather than filling gaps with assumptions.
+- [ ] Verify primary INE tables for water and labour indicators.
+- [ ] Inspect ADECO's original ICE calculation reports.
+- [ ] Review full World Bank economic and climate reports.
+- [ ] Add dedicated sources for healthcare, housing, education-to-work, unpaid care, waste/energy and media/influence.
+- [ ] Include further local-language reporting and perspectives from additional islands.
 
 ## Phase 2 — Cabo Verde pilot design
 
