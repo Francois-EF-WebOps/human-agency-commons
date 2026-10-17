@@ -36,3 +36,12 @@ Do not categorise religion itself as addiction. Investigate specific conduct and
 ## Current status
 
 No challenge area in this file should be read as independently verified or ranked. Populate the evidence and claim ledgers before making stronger claims.
+
+## Evidence baseline
+
+- [First-pass evidence baseline (17 October 2026)](evidence-baseline-2026-10-17.md)
+- [Water, healthcare and housing addendum (17 October 2026)](evidence-baseline-addendum-2026-10-17.md)
+- [Source register](../../evidence/source-register.csv)
+- [Claim ledger](../../evidence/claim-ledger.csv)
+
+These are desk-research snapshots, not a ranking of needs or proof that any proposed intervention works. Check each claim's status and limitations before reusing it.
