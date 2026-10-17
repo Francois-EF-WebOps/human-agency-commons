@@ -20,6 +20,9 @@ The challenge areas below are provisional research questions. They require verif
 8. Food security, affordability, and import dependence
 9. Waste and energy systems
 10. Press, television, radio, digital content, audio, and influence
+11. Digital access, technology affordability, digital public services, accessibility, local technical capacity, and the implementation or maintenance of digital tools
+
+Technology is both a cross-cutting consideration across the other areas and a research topic in its own right. Connectivity, devices, software, data, automation, and AI may enable access but may also introduce costs, exclusions, privacy risks, dependencies, or new work. These are questions to investigate, not findings about Cabo Verde.
 
 ## Research protocol
 
@@ -27,7 +30,9 @@ For each proposed claim, identify its geographic scope and timeframe, locate tra
 
 ## Intervention protocol
 
-Before recommending a solution, map existing services and community initiatives, identify who experiences the barrier, estimate practical costs and maintenance, assess who might be excluded, and define consent, privacy, evaluation, and stop criteria.
+Before recommending a solution, map existing services and community initiatives, identify who experiences the barrier, estimate practical costs and maintenance, assess who might be excluded, and define consent, privacy, evaluation, and stop criteria. Compare non-digital, hybrid, existing-tool, and build-new options. A prototype is not evidence of sustained usefulness or successful implementation.
+
+For technical or operational proposals, use the [technology, application and implementation framework](../../frameworks/technology-application-implementation.md) and [implementation plan template](../../templates/implementation-plan.md).
 
 ## Religion and other forms of influence
 
