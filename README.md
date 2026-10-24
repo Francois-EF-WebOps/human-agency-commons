@@ -61,6 +61,8 @@ Start with the [technology, application and implementation framework](frameworks
 ## Repository map
 
 - `evidence/` — source register, claim ledger, and evidence standards
+- `cases/mauritius-institutional-accountability/` — Mauritius comparator casebook (research draft)
+- `evidence/mauritius-accountability-source-register.csv` and `evidence/mauritius-accountability-claim-ledger.csv` — source and claim records for the comparator
 - `frameworks/` — human agency, behaviour, media, influence, and technology/implementation methods
 - `cases/cabo-verde/` — pilot scope and challenge register
 - `cases/solution-stories/` — global solution journeys, evidence-linked results, implementation artefacts, and feedback gaps
