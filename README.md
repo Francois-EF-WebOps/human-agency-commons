@@ -52,6 +52,12 @@ Technology is both a cross-cutting layer and a research topic in its own right. 
 
 Religious participation is not itself classified as addiction or harm. Assess specific, observable practices and outcomes—such as coercion, financial exploitation, isolation, interference with healthcare, or loss of meaningful choice—using the same standards applied to other organisations and systems. Do not infer harm from belief or identity alone.
 
+## Navigation under constraints: Cage Fluency
+
+The [Cage Fluency working framework](frameworks/cage-fluency-theory.md) explores how agents preserve useful navigation capability while operating with imperfect maps, shifting labels, scarce resources, and drift. Its [glossary](frameworks/cage-fluency-glossary.md) stabilises working terminology, and the [navigation review template](templates/navigation-review.md) turns the concepts into a bounded practical exercise.
+
+This is a **version 0.1 working synthesis, not a validated scientific theory**. It separates observation from interpretation, treats hidden intent as unproven without independent evidence, and identifies falsifiable questions and adjacent research fields. Do not treat the framework as proof that a particular explanation of a personal or organisational event is true.
+
 ## From research to implementation
 
 A proposed response should identify the need, compare existing and alternative approaches, specify the people and infrastructure required, define operating and maintenance responsibilities, set privacy and safety safeguards, and evaluate real-world outcomes. A prototype or app launch is not proof of usefulness or successful implementation.
