@@ -54,7 +54,7 @@ Religious participation is not itself classified as addiction or harm. Assess sp
 
 ## Navigation under constraints: Cage Fluency
 
-The [Cage Fluency working framework](frameworks/cage-fluency-theory.md) explores how agents preserve useful navigation capability while operating with imperfect maps, shifting labels, scarce resources, and drift. Its [glossary](frameworks/cage-fluency-glossary.md) stabilises working terminology, and the [navigation review template](templates/navigation-review.md) turns the concepts into a bounded practical exercise.
+The [Cage Fluency working framework](frameworks/cage-fluency-theory.md) explores how agents preserve useful navigation capability while operating with imperfect maps, shifting labels, scarce resources, and drift. Its [glossary](frameworks/cage-fluency-glossary.md) stabilises working terminology, and the [navigation review template](templates/navigation-review.md) turns the concepts into a bounded practical exercise. The [related-work crosswalk and provenance ledger](frameworks/cage-fluency-research-and-provenance.md) maps overlapping established research, quotes known mentions in related artefacts, and states the limits of the current search.
 
 This is a **version 0.1 working synthesis, not a validated scientific theory**. It separates observation from interpretation, treats hidden intent as unproven without independent evidence, and identifies falsifiable questions and adjacent research fields. Do not treat the framework as proof that a particular explanation of a personal or organisational event is true.
 
