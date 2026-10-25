@@ -1,6 +1,6 @@
-# Cage Fluency Theory — Working Framework (v0.1)
+# Cage Fluency Theory — Working Framework (v0.2 research update)
 
-**Status:** Working synthesis; conceptual framework, not a validated scientific theory.  
+**Status:** Working synthesis with initial literature crosswalk; conceptual framework, not a validated scientific theory.  
 **Purpose:** A practical, testable vocabulary for preserving useful agency and navigation under changing constraints, imperfect information, finite resources, and time.
 
 ## 1. Core definition
