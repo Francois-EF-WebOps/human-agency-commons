@@ -39,3 +39,10 @@
 8. **Closure is not erasure.**
 9. **A free public document is not a funded operating model.**
 10. **A prototype is not a proven intervention.**
+
+
+## Related research
+
+The terms in this glossary overlap with established work in cybernetics, viability theory, ecological psychology, resilience engineering, situation awareness, active inference, OODA, cognitive control, and SRE. Consult the [related-work crosswalk and provenance ledger](cage-fluency-research-and-provenance.md) for sources, short quotations, known exact mentions in other artefacts, and limitations of the search.
+
+This glossary is a working vocabulary, not a claim that its terms are new or validated. Preserve established definitions where they are more precise.
