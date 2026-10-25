@@ -60,7 +60,11 @@ This is a proposed term within Cage Fluency, not a claim that the term “drift�
 
 - File: [App.tsx](https://github.com/Finley-E/Mozenrath-Pub/blob/5e4b22c8f8f3bf1211002c0c662885456ee2d44b/App.tsx)
 - Exact phrase in the footer: “Authentic Cage Fluency-designed standalone prototype”
-- Assessment: this is a concrete implementation artefact associated with the label. The phrase alone does not establish which Cage Fluency principles are implemented or whether they improve user outcomes. A later audit should map each claimed principle to an observable mechanic, user task, test, and result.
+- Related implementation files: [GameMap.tsx](https://github.com/Finley-E/Mozenrath-Pub/blob/main/src/components/GameMap.tsx) and [gameEngine.ts](https://github.com/Finley-E/Mozenrath-Pub/blob/main/lib/gameEngine.ts).
+- Observed mechanics: a grid map with path, tree, water, volcano, wind, grass, berry, and shrine tiles; player position and directional movement; explicit world boundaries; obstacle checks; movement success/failure messages; and events for encounters, harvesting, shrines, and memory fragments. The main app also maintains state for weather, time of day, pantry inventory, discovered resources, and saved game slots.
+- Exact implementation strings include “Reached edge of localized Munu Sea!”, “Blocked by ${barrier}!”, and “Moved successfully.”
+- Potential Cage Fluency mapping (inference, not validated design intent): grid and tile types can represent a partial map; obstacles represent constraints; movement and blocked actions expose available versus unavailable routes; harvesting and inventory represent resource acquisition; weather/time variables represent changing conditions; save slots represent state persistence. This makes the game a promising *candidate demonstration environment* for navigation under constraints.
+- Still missing: an explicit mapping from each Cage Fluency principle to a game mechanic, a task specification, success/failure measures, baseline comparison, play-test results, and evidence that the design improves user understanding. The current code shows mechanics, not proof of learning or efficacy.
 - Caution: the prototype appears in a separate GitHub account/namespace from Human Agency Commons. The audit records the public artefact without assuming account ownership, authorship rights, or that every design choice is documented.
 
 ### 2.3 Related analogies and projects recorded in prior discussion
