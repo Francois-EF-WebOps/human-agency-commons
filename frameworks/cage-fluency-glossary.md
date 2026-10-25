@@ -1,6 +1,6 @@
 # Cage Fluency Glossary
 
-**Status:** Working vocabulary, version 0.1. These terms organise a proposed framework; they are not all established scientific constructs.
+**Status:** Working vocabulary, version 0.2 research update. These terms organise a proposed framework; they are not all established scientific constructs.
 
 | Term | Working definition | Boundary / caution |
 |---|---|---|
