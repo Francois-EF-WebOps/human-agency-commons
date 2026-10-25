@@ -222,3 +222,14 @@ When changing a core definition:
 > **Cage Fluency is the practice of preserving useful navigation capability under evolving constraints. Drift describes the gap that grows between reality and a working map. Sustainable navigation requires purposeful observation, calibrated uncertainty, proportionate action, resource-aware pacing, and explicit closure.**
 
 The test of the framework is not whether it explains every past event. It is whether it helps make better, safer, more economical decisions in the next one.
+
+
+## 16. Related work and provenance (v0.2 update)
+
+The initial literature crosswalk is maintained in [Cage Fluency: related-work crosswalk, quotation ledger, and provenance](cage-fluency-research-and-provenance.md). It compares the framework with cybernetics and requisite variety, viability theory, ecological psychology and affordances, resilience engineering, situation awareness, active inference, OODA, cognitive task switching, and SRE incident learning.
+
+The crosswalk identifies substantial overlap with established work. Cage Fluency should therefore be described as an **integrative practice proposal** unless and until a systematic review establishes a more specific original contribution. Do not claim novelty merely because concepts are combined under a new label.
+
+The same companion file records the exact Cage Fluency wording found in the known public repository artefacts and selected prior-conversation wording. Its search was targeted, not exhaustive; further mentions must be added with their exact source and provenance rather than inferred.
+
+**Required research discipline:** each external source supports only the concept or finding it actually discusses. A source that supports one component does not validate the whole framework. The next substantive step is a fair comparison with an existing method on a bounded task, with outcomes and failure conditions defined in advance.
